@@ -55,3 +55,11 @@ This is a War Game application written in Swift. The game involves a player comp
 - Add more card images with varying strengths.
 
 https://github.com/user-attachments/assets/45fd5835-1f56-4def-97d2-1123f476ef45
+
+![Simulator Screenshot - iPhone 14 Pro - 2024-07-14 at 22 50 42](https://github.com/user-attachments/assets/90948b69-9f58-4b07-a0a1-6226c497eb43)
+
+![Simulator Screenshot - iPhone 14 Pro - 2024-07-14 at 22 51 05](https://github.com/user-attachments/assets/e27a63c9-f22d-48dd-b718-f278303c74ed)
+
+![Simulator Screenshot - iPhone 14 Pro - 2024-07-14 at 22 51 09](https://github.com/user-attachments/assets/a9a68c83-a7cf-421a-8087-1d5ddbf933dc)
+
+![Simulator Screenshot - iPhone 14 Pro - 2024-07-14 at 22 51 31](https://github.com/user-attachments/assets/4c645c76-b0ad-45c6-b9ba-236a9e212276)

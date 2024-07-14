@@ -53,3 +53,5 @@ This is a War Game application written in Swift. The game involves a player comp
 - Enhance UI with animations and sound effects.
 - Implement different difficulty levels.
 - Add more card images with varying strengths.
+
+https://github.com/user-attachments/assets/45fd5835-1f56-4def-97d2-1123f476ef45

@@ -1,9 +1,3 @@
-//
-//  LocationManager.swift
-//  LocationServices
-//
-//  Created by Nadav Avnon on 11/07/2024.
-//
 
 import Foundation
 import CoreLocation

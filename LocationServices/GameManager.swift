@@ -1,9 +1,4 @@
-//
-//  GameManager.swift
-//  LocationServices
-//
-//  Created by Nadav Avnon on 12/07/2024.
-//
+
 
 import Foundation
 

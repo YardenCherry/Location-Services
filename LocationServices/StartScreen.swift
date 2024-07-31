@@ -1,8 +1,4 @@
-//
-//  ViewController.swift
-//  LocationServices
-//
-//
+
 
 import UIKit
     
